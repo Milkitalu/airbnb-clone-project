@@ -34,3 +34,20 @@ Airbnb has simplified the onboarding process for hosts, with features like:
 •	Computer vision deep-learning models that automatically arrange photos 
 •	Smart text suggestions to help craft titles and descriptions 
 •	Integration with publicly available real estate data.
+Color styles used by Airbnb websites..
+     primary color-#34967C
+     secondary color-#161117
+     colors used for rating star-#FAC02B
+     Home page Header text color-#ffffff
+     Majority of text color-#161117
+Typography used by Airbnb website design
+    Font type-Source Sans Pro and Quicksand.
+    Font weght-Bold,semi bold and medium
+    Font size- homepage:94,25,22,16 ,17 Detail page:50,23,27,22,16  payment page:29,25,20,17,16
+Identifying design properties of a website is important because it helps create a website that is visually appealing, easy to use, and helps to enhance
+•	User experience
+•	Visual design
+•	Content
+•	Accessibility
+•	Branding
+•	Search engine visibility
