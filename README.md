@@ -70,3 +70,19 @@ Scrum Master:
  A Scrum Master's role is to facilitate scrum, an agile framework that uses sprints to focus on time-boxed iterations.
 QA/Testers:
  A quality assurance (QA) tester's role is to ensure that software or websites are functioning properly and meet quality standards:
+
+ ###############################################################################################
+
+ 3.UI Component Patterns
+ Describtion of  the components I plan to create when i built clone website of Airbnb.
+
+    •	  Header: This gives general description of the service
+
+    • 	search and filters: Includes filters for price, location, amenities, and unique categories. 
+    •	Interactive map: Allows users to browse listings by location. 
+    •	Search results page: Provides an overview of each listing, including photographs, pricing, reviews, and key information. 
+    •	Instant Book: Enables immediate booking confirmation without the need for host approval. 
+    •	User profiles and authentication: Includes secure registration and verification processes. 
+    •	Property listings: Includes comprehensive listings with photos, descriptions, availability, and pricing. 
+    •	Review and rating system
+    •	Footer: Provides important note and links about the company service and social media
