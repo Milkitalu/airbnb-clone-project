@@ -51,3 +51,22 @@ Identifying design properties of a website is important because it helps create 
 •	Accessibility
 •	Branding
 •	Search engine visibility
+
+###########################################################################################
+2.Project Roles and Responsibilities.
+
+PROJECT MANAGER:
+ A project manager's role is to plan, organize, and direct a project from start to finish, ensuring it's completed on time, within budget, and to the satisfaction of stakeholders.
+
+Front end developer:
+ A front-end developer's role is to create the user-facing parts of websites and web applications. They are responsible for the design and implementation of the user interface, which includes the layout, visual design, and interactive elements.
+Backend Developers
+ Back-end developers are responsible for the server-side of a website or application, which is the part that's not visible to the user. They create, maintain, and test the back-end, which includes the databases, logic, APIs, and architecture. Their role is essential for ensuring that a website or application runs smoothly and provides a good user experience
+DevOps Engineers
+ DevOps engineers, or development operations engineers, are responsible for the development and operation of software. They work to improve efficiency and collaboration by combining development and operations roles
+Product Owner:
+ A product owner's role is to ensure that a product creates value for the customer, users, and company.
+Scrum Master:
+ A Scrum Master's role is to facilitate scrum, an agile framework that uses sprints to focus on time-boxed iterations.
+QA/Testers:
+ A quality assurance (QA) tester's role is to ensure that software or websites are functioning properly and meet quality standards:
